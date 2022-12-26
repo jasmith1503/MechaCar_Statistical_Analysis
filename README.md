@@ -18,6 +18,7 @@ A fictious company AutosRUs' has created a new prototype car named "MechaCar" an
 ## Linear Regression to Predict MPG
 
 <b>Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?</b></br>
+</br>![SummaryLM](Resources/Part1Step6.jpg)</br>
 The two coefficients which provided a non-random amount of variance are the Vehicle Length (P-Value 2.60e-12) & Ground Clearance (P-Value 5.21e-08) These two values will have an impact on the MPG (Miles Per Gallon) of the prototype MechaCar. The remaining variables Vehicle Weight (P-Value 0.0776), Spoiler Angle (P-Value 0.3069), & AWD (P-Value 0.1852) do not have a non-random impact to the cars overall MPG. 
 
 <b>Is the slope of the linear model considered to be zero? Why or why not?</b></br>
@@ -28,9 +29,9 @@ Additional research needs to be completed in order to determine the key factors 
 
 ## Summary Statistics on Suspension Coils
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
-![TotalSummary](/Resources/Part2Step3.jpg)
+</br>![TotalSummary](/Resources/Part2Step3.jpg)</br>
 The current manufacturing for the suspension coils is within the threshold of 100 pounds per square inch (62.29356). 
-![LotSummary](/Resources/Part2Step4.jpg) 
+</br>![LotSummary](/Resources/Part2Step4.jpg)</br>
 There are three different lots which have been manufactured, Lot1 and Lot2 are within the Varience threshold (0.9795918 & 7.4693878 respectuflly) however Lot3 has a Variance (170.2861224) outside the threshold which is cause for greater reseach. This will need to be address and corrected in order to maintain the requested limits of < 100 PSI. 
 
 
