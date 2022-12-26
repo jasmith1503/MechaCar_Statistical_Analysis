@@ -6,6 +6,7 @@ Operating Platform: Windows 11 Pro [Buy Windows 11 Pro](https://www.microsoft.co
 IDE Software: [RStudio](https://posit.co/download/rstudio-desktop/) Build 353 2022.12.0 ()</br>
 R Build Version: [Windows R version 4.2.2](https://cran.r-project.org/bin/windows/base/)</br>
 R Specific Package: [Tidyverse](https://www.tidyverse.org/)</br>
+Completed R Scripts: [MechaCar](MechaCarChallenge.RScript.R)
 Resource files: [MechaCar MPG](MechaCar_mpg.csv), [Suspension Coil](Suspension_Coil.csv)
 
 ## Overview
@@ -49,12 +50,13 @@ Lot 3 had the worst results between all 3 Lots. Using the below t.test results i
 ## Study Design: MechaCar vs Competition
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 In your description, address the following questions:
-What metric or metrics are you going to test?
+</br><b>What metric or metrics are you going to test?</b>
+There are several metrics which can be used to help the sucsess of the MechCar. 
 
-What is the null hypothesis or alternative hypothesis?
+</br><b>What is the null hypothesis or alternative hypothesis?</b>
 
-What statistical test would you use to test the hypothesis? And why?
+</br><b>What statistical test would you use to test the hypothesis? And why?</b>
 
-What data is needed to run the statistical test?
+</br><b>What data is needed to run the statistical test?</b>
 
 
