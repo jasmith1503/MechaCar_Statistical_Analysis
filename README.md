@@ -28,22 +28,19 @@ The slope of this specific model is not less than zero (p-value: 5.35e-11) and i
 Additional research needs to be completed in order to determine the key factors as to predicting the MPG of the MechaCar. Below further data is provided to help determine this value. 
 
 ## Summary Statistics on Suspension Coils
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+<b>The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?</b>
+The current manufacturing for the suspension coils is within the threshold of 100 pounds per square inch (62.29356).
 </br>![TotalSummary](/Resources/Part2Step3.jpg)</br>
-The current manufacturing for the suspension coils is within the threshold of 100 pounds per square inch (62.29356). 
-</br>![LotSummary](/Resources/Part2Step4.jpg)</br>
 There are three different lots which have been manufactured, Lot1 and Lot2 are within the Varience threshold (0.9795918 & 7.4693878 respectuflly) however Lot3 has a Variance (170.2861224) outside the threshold which is cause for greater reseach. This will need to be address and corrected in order to maintain the requested limits of < 100 PSI. 
-
+</br>![LotSummary](/Resources/Part2Step4.jpg)</br>
 
 ## T-Tests on Suspension Coils
 Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
-
+SAMPLE_SAMPLE_SAMPLE_SAMPLE_
 
 ## Study Design: MechaCar vs Competition
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-
 In your description, address the following questions:
-
 What metric or metrics are you going to test?
 
 What is the null hypothesis or alternative hypothesis?
