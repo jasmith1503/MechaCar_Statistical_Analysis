@@ -19,13 +19,13 @@ A fictious company AutosRUs' has created a new prototype car named "MechaCar" an
 ---
 ## Linear Regression to Predict MPG
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+# Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 The two coefficients which provided a non-random amount of variance are the Vehicle Length (P-Value 2.60e-12) & Ground Clearance (P-Value 5.21e-08) These two values will have an impact on the MPG (Miles Per Gallon) of the prototype MechaCar. The remaining variables Vehicle Weight (P-Value 0.0776), Spoiler Angle (P-Value 0.3069), & AWD (P-Value 0.1852) do not have a non-random impact to the cars overall MPG. 
 
-Is the slope of the linear model considered to be zero? Why or why not?
+# Is the slope of the linear model considered to be zero? Why or why not?
 The slope of this specific model is not less than zero (p-value: 5.35e-11) and is smaller than the standarized value of 5% (.05) 
 
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+# Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 Additional research needs to be completed in order to determine the key factors as to predicting the MPG of the MechaCar. Below further data is provided to help determine this value. 
 
 ---
