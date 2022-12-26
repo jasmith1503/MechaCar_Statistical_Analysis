@@ -35,7 +35,15 @@ There are three different lots which have been manufactured, Lot1 and Lot2 are w
 </br>![LotSummary](/Resources/Part2Step4.jpg)</br>
 
 ## T-Tests on Suspension Coils
-Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.</br>
+Lot1 t.test:
+</br>![Lot1TTest](/Resources/Part3Step2Lot1.jpg)</br>
+SAMPLE_SAMPLE_SAMPLE_SAMPLE_
+
+</br>![Lot1TTest](/Resources/Part3Step2Lot2.jpg)</br>
+SAMPLE_SAMPLE_SAMPLE_SAMPLE_
+
+</br>![Lot1TTest](/Resources/Part3Step2Lot3.jpg)</br>
 SAMPLE_SAMPLE_SAMPLE_SAMPLE_
 
 ## Study Design: MechaCar vs Competition
