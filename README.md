@@ -36,15 +36,15 @@ There are three different lots which have been manufactured, Lot1 and Lot2 are w
 
 ## T-Tests on Suspension Coils
 Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.</br>
-Lot1 t.test:
+
+Lot 1 has the tightest manufacturing tollerances out of the 3 Lots. Using the below t.test results it shows that 95% of the results were within the threshold of 14.99.719 & 1500.281. This means that the lowest measures PSI range was 1498 and highest was 1502 giving a swing of 4 PSI between the two results. 
 </br>![Lot1TTest](/Resources/Part3Step2Lot1.jpg)</br>
-SAMPLE_SAMPLE_SAMPLE_SAMPLE_
 
+Lot 2 had the 2nd "best" results out of the 3 Lots. Using the below t.test results it shows that 95% of the results were within the threshold of 14.99.423 & 1500.977. This means that the lowest measured PSI range was 1494 and the highest being 1506 giving a 12 PSI swing. 
 </br>![Lot1TTest](/Resources/Part3Step2Lot2.jpg)</br>
-SAMPLE_SAMPLE_SAMPLE_SAMPLE_
 
+Lot 3 had the worst results between all 3 Lots. Using the below t.test results it shows that 95% of the results were within the threshold limits of 1492.431 & 1499.849. This results in the highest max PSI record of 1542 and the lowest PSI record of 1452 which is a swing of 90 PSI. This Lot should have additional research into the manufacturing practices and steps used to complete this batch of products. Because the results are outside the ranges of the other two lots it could have a greater impact on MPG or overall saftey of the MechaCar.
 </br>![Lot1TTest](/Resources/Part3Step2Lot3.jpg)</br>
-SAMPLE_SAMPLE_SAMPLE_SAMPLE_
 
 ## Study Design: MechaCar vs Competition
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
