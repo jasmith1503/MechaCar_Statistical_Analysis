@@ -26,6 +26,9 @@ The two coefficients which provided a non-random amount of variance are the Vehi
 ### Is the slope of the linear model considered to be zero? Why or why not?
 The slope of this specific model is not less than zero (p-value: 5.35e-11) and is smaller than the standarized value of 5% (.05) 
 
+<strong> Is the slope of the linear model considered to be zero? Why or why not? </strong>
+The slope of this specific model is not less than zero (p-value: 5.35e-11) and is smaller than the standarized value of 5% (.05) 
+
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 Additional research needs to be completed in order to determine the key factors as to predicting the MPG of the MechaCar. Below further data is provided to help determine this value. 
 
