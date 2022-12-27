@@ -54,7 +54,7 @@ In your description, address the following questions:</br>
 There are several metrics which can be used to help the success of the MechaCar. Determining the final vehicle details will help determine which competitor cars to validate the value of the MechaCar. The engine size, drive train (AWD, 2WD, etc), & body style (sedan, SUV, sports car, etc) are a few to name. Once the details are confirmed then other data sources can be gathered as needed to compare the final product specs vs a similar competitive vehicle. I.E. validating the engine size vs the MPG vehiles inside the same class type. </br>
 </br><b>What is the null hypothesis or alternative hypothesis?</b></br>
 The null hypothesis would be that the MechaCar MPG is impacted by the engine size. 
-The alternative hypothesis would be that there is not a significant impact of the MPG vs the competitors vehicles. /br>
+The alternative hypothesis would be that there is not a significant impact of the MPG vs the competitors vehicles. </br>
 </br><b>What statistical test would you use to test the hypothesis? And why?</b></br>
 A few tests to validate is use a few key vehicle metrics to ensure the proper test parameters are used to ensure the MechaCar is best is class. Knowing the engine size, drivetrain, and class are three metrics to validate the standing of the final product. With enough datapoints I would use a two-sample t-test as I would hope to be able to compare the MechaCar vs 35 to 45 other manufactured vehicles. </br>
 </br><b>What data is needed to run the statistical test?</b></br>
