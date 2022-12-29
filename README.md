@@ -2,7 +2,7 @@
 Module 16 Challenge - Statistical Analysis using R
 
 ## Resources
-Operating Platform: Windows 11 Pro [Buy Windows 11 Pro](https://www.microsoft.com/en-us/d/windows-11-pro/dg7gmgf0d8h4?rtc=1) Build 22621</br>
+Operating Platform: Windows 11 Pro - Build 22621 [Buy Windows 11 Pro](https://www.microsoft.com/en-us/d/windows-11-pro/dg7gmgf0d8h4?rtc=1)</br>
 IDE Software: [RStudio](https://posit.co/download/rstudio-desktop/) Build 353 2022.12.0 ()</br>
 R Build Version: [Windows R version 4.2.2](https://cran.r-project.org/bin/windows/base/)</br>
 R Specific Package: [Tidyverse](https://www.tidyverse.org/)</br>
